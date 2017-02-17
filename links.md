@@ -1,0 +1,2 @@
+# Links
+- Wired [article](https://www.wired.com/2017/02/machine-learning-drifting-real-world-internet-balloons/) about controlling internet baloons (Loon project) with machine learning. They mention [Gaussian processes](http://www.gaussianprocess.org/), (see also this [intro](http://mlss2011.comp.nus.edu.sg/uploads/Site/lect1gp.pdf)) which seems to be a synonym here for nonlinear regression/interpolation with some smoothing.
