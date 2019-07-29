@@ -13,5 +13,5 @@ Collection of machine learning related things
 - [UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction](https://umap-learn.readthedocs.io/en/latest/) : faster and maybe better than t-SNE
   - https://arxiv.org/pdf/1802.03426.pdf
   - also the paper has an interesting dimension reduced representation of whole numbers from prime factor representation (Fig. 9-11)
- - Henriques, J.F. and Vedaldi, A., 2017, August. Warped convolutions: Efficient invariance to spatial transformations. In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1461-1469). JMLR. org. [link](https://arxiv.org/abs/1609.04382) 
+- __Warped convolutions__ Henriques, J.F. and Vedaldi, A., 2017, August. Warped convolutions: Efficient invariance to spatial transformations. In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 1461-1469). JMLR. org. [link](https://arxiv.org/abs/1609.04382) 
   - this may be good for nanopore data analysis, where the speed of DNA reading may vary  
